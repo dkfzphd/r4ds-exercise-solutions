@@ -411,7 +411,7 @@ These are a few ways to select columns.
     This works, but is not good practice for two reasons.
     First, the column location of variables may change, resulting in code that 
     may continue to run without error, but produce the wrong answer. 
-    Second code is obfuscated, since it is not clear from the code which 
+    Second, code is obfuscated, since it is not clear from the code which 
     variables are being selected. What variable does column 6 correspond to? 
     I just wrote the code, and I've already forgotten.
 
